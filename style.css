@@ -1,0 +1,35 @@
+#text3{
+	margin-left:40px;
+	font-family:verdana;
+	font-size:+20px;
+	color:#000000;
+	
+	text-shadow: 2px 2px 30px #000;
+}
+#text4{
+	margin-left:40px;
+	font-family:verdana;
+	font-size:+20px;
+	color:#000000;
+}
+	
+#tab{
+	margin-left: 40px;
+	font-family: verdana;
+	font-size: +20px;
+	color: #708090;
+}
+.table-box{
+	margin: 50px auto;
+}
+.table-row{
+	display: table;
+	width: 50%;
+	margin-left: 40px;
+	font-family: verdana;
+	background: transparent;
+	padding: 12px 0;
+	color: #000;
+	font-size: 13px;
+	box-shadow:0 1px 4px 0 rgba(0,0,50,0.3);
+}
